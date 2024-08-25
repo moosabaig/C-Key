@@ -1,7 +1,7 @@
 import Letters
 import functions
 
-print(" ----> Hello , welcome to the Caesar Cipher :) <---- ")
+print(" ----> Hello , welcome to the C Key :) <---- ")
 # receive word :
 word = input(" >> please enter your word : ")
 word = word.lower()
